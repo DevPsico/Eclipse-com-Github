@@ -10,6 +10,7 @@ public class Gato {
 
 	
 	public Gato() {
+		
 	}
 
 
